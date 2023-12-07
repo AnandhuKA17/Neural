@@ -4,3 +4,5 @@ tqdm
 pillow
 numpy
 gdown
+torch
+os
