@@ -6,8 +6,6 @@ from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import pickle
 import gdown
-import torch
-import os
 
 word_to_index = imdb.get_word_index()
 
